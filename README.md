@@ -40,7 +40,7 @@ streamlit run app.py
 </details>
 
 <details >
-  <summary> <b> <h3> Q&A Chatbot Application with Streamlit and Google's Gemini (Chat Mode - 'chat.py') </h3> </b> </summary>
+  <summary> <b> <h3> Q&A Chatbot Application with Streamlit and Google's Gemini (Chat Mode - 'qachat.py') </h3> </b> </summary>
    
 
 ## Overview
